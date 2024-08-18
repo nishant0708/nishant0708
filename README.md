@@ -6,6 +6,27 @@
 </div>
 
 ---
+<div align="center">
+  <h3>Skills</h3>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MERN"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
+  <img src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/api.png" alt="Rest API"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="Npm packages"/>
+  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Framer"/>
+</div>
+
+---
 
 <div align="center">
   <h3>My GitHub Stats</h3>
