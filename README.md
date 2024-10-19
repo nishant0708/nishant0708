@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif" width="100%"/>
   <h2>Hi there, I'm Nishant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
   <p align="center">MERN Stack Developer|Machine Learning Engineer | TypeScript | Next.js | PostgreSQL | Android Development | Firebase | AWS | AZURE </p>
-  <p align="center">🌍 Indore, India</p>
+  <p align="center">🌍 Indore, India,MP</p>
 </div>
 
 ---
