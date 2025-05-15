@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif" width="100%"/>
   <h2>Hi there, I'm Nishant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
   <p>MERN Stack Developer | Machine Learning Engineer | TypeScript | Next.js | PostgreSQL | Android Development | Firebase | AWS | Azure</p>
-  <p>🌍 Indore, MP, India</p>
 </div>
 
 ---
@@ -63,19 +62,19 @@
 ---
 
 ## GSSOC(24) Badges 🪶
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
-    <img src="https://gssoc.girlscript.tech/badges/postman.png" width="100" height="100" alt="Postman Badge"/>
-    <img src="https://gssoc.girlscript.tech/badges/1.png" width="100" height="100" alt="Badge 1"/>
-    <img src="https://gssoc.girlscript.tech/badges/2.png" width="100" height="100" alt="Badge 2"/>
-    <img src="https://gssoc.girlscript.tech/badges/3.png" width="100" height="100" alt="Badge 3"/>
-    <img src="https://gssoc.girlscript.tech/badges/4.png" width="100" height="100" alt="Badge 4"/>
-    <img src="https://gssoc.girlscript.tech/badges/5.png" width="100" height="100" alt="Badge 5"/>
-    <img src="https://gssoc.girlscript.tech/badges/6.png" width="105" height="105" alt="Badge 6"/>
-    <img src="https://gssoc.girlscript.tech/badges/7.png" width="100" height="100" alt="Badge 7"/>
-    <img src="https://gssoc.girlscript.tech/badges/8.png" width="100" height="100" alt="Badge 8"/>
-  </a>
+<div style='display:flex; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
 ### LeetCode Badges
