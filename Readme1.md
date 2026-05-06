@@ -273,17 +273,20 @@ Built a full WhatsApp clone with **real-time messaging, user auth, and multimedi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nishant0708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=7a9cc0&include_all_commits=true&rank_icon=github" alt="Nishant's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180" src="https://streak-stats.demolab.com/?user=nishant0708&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=7a9cc0&dates=4a5680" alt="GitHub Streak"/>
+
+
+<img height="180em" src="https://streak-stats.demolab.com?user=nishant0708&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nishant0708&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nishant0708&layout=compact&theme=tokyonight" />
+
+
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=7a9cc0&langs_count=8" alt="Top Languages" width="42%"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nishant0708&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nishant0708&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
