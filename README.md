@@ -160,7 +160,7 @@ My trajectory is defined by a relentless drive to solve complex problems, build 
 
 ## 🔭 Deployed Satellites — Projects
 
-> 📸 **How to add your project images:** Replace any `[Click to view demo]` link with `[![Screenshot](your_image_url)](your_demo_or_repo_url)` — GitHub renders these as clickable images that open the link. Upload your screenshots to your repo and use the raw URL, or use any image host.
+<!-- > 📸 **How to add your project images:** Replace any `[Click to view demo]` link with `[![Screenshot](your_image_url)](your_demo_or_repo_url)` — GitHub renders these as clickable images that open the link. Upload your screenshots to your repo and use the raw URL, or use any image host.-->
 
 ---
 
